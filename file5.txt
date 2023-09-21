@@ -1,2 +1,0 @@
-This file will be on the branch and then later move to the master
-This is a testing file
